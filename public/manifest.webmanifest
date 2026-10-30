@@ -1,0 +1,16 @@
+{
+  "name": "RGV Dad Fitness",
+  "short_name": "Dad Fitness",
+  "description": "Free, bilingual fitness home base for Rio Grande Valley dads.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1A1D4E",
+  "theme_color": "#1A1D4E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
